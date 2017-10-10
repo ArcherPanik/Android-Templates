@@ -1,0 +1,8 @@
+Para hacer una app multilenguaje tenemos que crear una carpeta dentro de res que se llame values-es para indicar español, 
+values-fr para indicar frances... Dentro de esa carpeta debemos crear un archivo strings.xml con el siguiente contenido:
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="hello_world">Hola mundo!</string>
+</resources>
